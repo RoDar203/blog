@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-   - course: 2 course, continue stydying institution: People’s Friendship University of Russia year: 2020
+    - course: 2 course, continue stydying institution: People’s Friendship University of Russia year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
