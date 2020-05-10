@@ -21,9 +21,9 @@ organizations:
 bio: At the moment, my main activity is aimed at improving practical and theoretical skills.
 
 interests:
-- LaTeX
-- Statistical data analysis
-- Photographing
+ - LaTeX
+ - Statistical data analysis
+ - Photographing
 
 education:
   courses:
