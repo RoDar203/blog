@@ -38,21 +38,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:1032182581@pfur.ru'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/dear_tutti
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: #
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/RoDar203
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1660-5015
+- icon: publons
+  icon_link: ai
+  link: https://publons.com/researcher/3650918
+- icon: researchgate
+  icon_link: ai
+  link: https://www.researchgate.net/profile/Darya_Rodina
+- icon: mendeley
+  icon_link: ai
+  link: https://www.mendeley.com/profiles/darya--rodina/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "harumiamily@gmail.com"
