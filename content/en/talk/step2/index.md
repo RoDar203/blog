@@ -10,7 +10,7 @@ title: Advertising effectiveness. Step 2
 #  postcode: '94305'
 #  country: United States
 
-summary: 
+summary: Identification of the dependence of the speed of advertising campaign
 abstract: "Proper implementation of the advertising campaign of any product that has just entered the market is an essential task for every self-respecting entrepreneur.
 Our task is not only to consider the model of building an advertising campaign, but also to draw up such an algorithm that could be used to calculate and analyze situations with an advertising campaign.
 At the second stage of the project, an advertising campaign base algorithms was presented."
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: step2
+slides: "step2
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

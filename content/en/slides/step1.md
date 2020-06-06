@@ -1,6 +1,6 @@
 ---
 title: Advertising effectiveness
-summary: 
+summary: Identification of the dependence of the speed of advertising campaign
 authors:
 - Rodina Darya
 - Kartashova Alice
@@ -20,13 +20,8 @@ slides:
   highlight_style: dracula
 ---
 
-# Advertising effectiveness
-
-by:
-- Rodina Darya  
-- Kartashova Alice  
-- Sasin Yaroslav  
-- Vasilieva Julia  
+# Advertising effectiveness. Step 1
+ 
 
 ---
 
@@ -46,11 +41,11 @@ How to sell goods on the market?
 
 ---
 
-## The purpose and objectives of the project
-
 ### **The main proiect purpose:**
 
 finding the dependence of sales on the effectiveness of an advertising campaign.
+
+--- 
 
 ### **Project objectives:**
 
@@ -82,20 +77,19 @@ The main factors influencing sales are:
 ---
 ## Campaign Model
 
-### Model
-
 $$\frac{\mathrm{d}n}{\mathrm{d}t} = (a_1(t) + a_2(t)n(t))(N - n(t))$$
 
-$\frac{\mathrm{d}n}{\mathrm{d}t}$ - скорость изменения числа потребителей, узнавших о товаре и готовых купить  
-$a_1(t)(N – n(t))$ -число уже информированных покупателей пропорционально числу еще не информированных покупателей - модель Мальтуса  
-$a_2(t)n(t)(N – n(t))$ - распрастранение информации покупателями, которые уже знают о товаре - логистичесая кривая  
-$N - n(t)$ - количество потенциальных покупателей, не знающих о товаре
+$ \frac {\mathrm{d} n}{\mathrm{d} t} $ - the rate of change in the number of consumers who find out about the product and are ready to buy  
+$ a_1 (t) (N - n (t)) $ -number of already informed buyers in proportion to the number of not yet informed buyers - Malthus model 
+
+---
+
+$ a_2 (t) n (t) (N - n (t)) $ - information dissemination by customers who already know about the product - logistic curve  
+$ N - n (t) $ - the number of potential buyers who do not know about the product  
 
 ---
 
 ## Campaign Model
-
-### Model
 
 $$\frac{\mathrm{d}n}{\mathrm{d}t} = (a_1(t) + a_2(t)n(t))(N - n(t))$$
 
@@ -106,8 +100,6 @@ For $a_1(t)\gga_2(t)n(t)$ we get a model of the Maltus type:
 ---
 
 ## Campaign Model
-
-### Model
 
 $$\frac{\mathrm{d}n}{\mathrm{d}t} = (a_1(t) + a_2(t)n(t))(N - n(t))$$
 

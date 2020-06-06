@@ -10,7 +10,7 @@ title: Advertising effectiveness. Step 1
 #  postcode: '94305'
 #  country: United States
 
-summary: 
+summary: Identification of the dependence of the speed of advertising campaign
 abstract: "Proper implementation of the advertising campaign of any product that has just entered the market is an essential task for every self-respecting entrepreneur.
 Our task is not only to consider the model of building an advertising campaign, but also to draw up such an algorithm that could be used to calculate and analyze situations with an advertising campaign.
 At the first stage of the project, an advertising campaign model was presented."
@@ -22,7 +22,7 @@ At the first stage of the project, an advertising campaign model was presented."
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
