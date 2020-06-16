@@ -178,7 +178,7 @@ Key: `S`
 ## Настройка слайдов
 
 ```markdown
-{{< slide background-color="#990099" >}}
+{{</* slide background-color="#990099" */>}}
 ```
 
 ---
