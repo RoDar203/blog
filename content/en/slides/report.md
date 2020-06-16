@@ -169,7 +169,7 @@ Key: `S`
 
 ---
 
-{{< slide background-image="/img/bobbbb.jpg" >}}
+{{< slide background-image="/static/img/bobbbb.jpg" >}}
 
 ---
 
