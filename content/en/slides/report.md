@@ -164,7 +164,7 @@ Key: `S`
 ## Настройка слайдов
 
 ```markdown
-{{</* slide background-image="/documents/work/blog/git/static/img/bobbbb.jpg" */>}}
+{{</* slide background-image="/static/img/bobbbb.jpg" */>}}
 ```
 
 ---
