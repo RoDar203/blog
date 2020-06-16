@@ -1,5 +1,5 @@
 ---
-title: Презентации в Markdown
+title: 
 summary: 
 authors:
 - Rodina Darya
@@ -177,11 +177,11 @@ Key: `S`
 
 ---
 
-{{</ slide background-image="/img/bobbbb.jpg" />}}
+{{< slide background-image="/img/bobbbb.jpg" >}}
 
 ---
 
-{{</ slide background-color="#990099" />}}
+{{< slide background-color="#990099" >}}
 
 ## Настройка слайдов
 
@@ -191,7 +191,7 @@ Key: `S`
 
 ---
 
-{{</ slide class="colorRed" />}}
+{{< slide class="colorRed" >}}
 
 ## Настройка слайдов - CSS
 
