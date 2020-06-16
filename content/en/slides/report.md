@@ -47,7 +47,7 @@ slides:
 
 - fathom.js
 - desk.js
-- CSS-based Slideshow System - 
+- CSS-based Slideshow System
 - impress.js
 - reveal.js
 
