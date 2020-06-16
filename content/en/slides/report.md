@@ -43,8 +43,6 @@ slides:
 
 ---
 
-## Примеры шабонов
-
 - fathom.js
 - desk.js
 - CSS-based Slideshow System
@@ -166,12 +164,12 @@ Key: `S`
 ## Настройка слайдов
 
 ```markdown
-{{</* slide background-image="/img/bobbbb.jpg" */>}}
+{{</* slide background-image="bobbbb.jpg" */>}}
 ```
 
 ---
 
-{{< slide background-image="/img/bobbbb.jpg" >}}
+{{< slide background-image="bobbbb.jpg" >}}
 
 ---
 
