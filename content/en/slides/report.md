@@ -164,12 +164,12 @@ Key: `S`
 ## Настройка слайдов
 
 ```markdown
-{{</* slide background-image="bobbbb.jpg" */>}}
+{{</* slide background-image="/img/bobbbb.jpg" */>}}
 ```
 
 ---
 
-{{< slide background-image="bobbbb.jpg" >}}
+{{< slide background-image="/img/bobbbb.jpg" >}}
 
 ---
 
@@ -178,7 +178,7 @@ Key: `S`
 ## Настройка слайдов
 
 ```markdown
-{{</* slide background-color="#990099" */>}}
+{{< slide background-color="#990099" >}}
 ```
 
 ---
