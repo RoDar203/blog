@@ -161,18 +161,6 @@ Key: `S`
 
 ---
 
-## Настройка слайдов
-
-```markdown
-{{</* slide background-image="/img/bobbbb.jpg" */>}}
-```
-
----
-
-{{< slide background-image="/img/bobbbb.jpg" >}}
-
----
-
 {{< slide background-color="#990099" >}}
 
 ## Настройка слайдов
