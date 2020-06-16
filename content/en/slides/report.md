@@ -75,7 +75,7 @@ slides:
 - Заметки выступающего: `S`
 - Полноэкранный режим: `F`
 - Изменение масштаба: `Alt + Click`
-- [Экспорт в PDF] (https://github.com/hakimel/reveal.js#pdf-export): `E`
+- [Экспорт в PDF](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
 ---
 
@@ -117,12 +117,6 @@ Key: `Space`
 {{% fragment %}} Научпрог {{% /fragment %}}
 {{% fragment %}} лучший {{% /fragment %}}
 {{% fragment %}} предмет!!! {{% /fragment %}}
-
----
-
-A fragment can accept two optional parameters:
-class: use a custom style (requires definition in custom CSS)
-weight: sets the order in which a fragment appears
 
 ---
 
@@ -201,7 +195,7 @@ Key: `S`
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-  color: navy;
+  color: gray;
 }
 
 .reveal .colorRed {
