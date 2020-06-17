@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Darya Rodina
+title: Родина Дарья
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: student of 2nd course
+role: студент 2-го курса
 
 # Organizations/Affiliations
 organizations:
-- name: People People’s Friendship University of Russia (RUDN)
+- name: Российский Университет Дружбы Народов
   url: "http://www.rudn.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: At the moment, my main activity is aimed at improving practical and theoretical skills.
+bio: На данный момент, деятельность направлена на получение теоритических и практических знаний, необходимых для дальннейшей работы в сфере IT.
 
 interests:
   - LaTeX
-  - Statistical data analysis
-  - Photographing
+  - Анализ данных
+  - Фотографирование
 
 education:
   courses:
-    - course: 2 course, continue stydying 
-      institution: People’s Friendship University of Russia 
-      year: 2020
+    - course: 2 курс 
+      institution: Российский Университет Дружбы Народов 
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Daria Rodina, a student at RUDN University, is studying in the direction "Fundamental Informatics and Information Technologies". Currently studying in the 2nd course.
+Родина Дарья обучается на 2-м курсе направления "Фундоментальная информатика и информационные технолгии" Российского университета дружбы народов. Вся деятельность направлена на получение теоритических и практических навыков для дальнейшей работы в области анализа данных и информационной безопасности.
