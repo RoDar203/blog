@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Darya Rodina
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: student of 2nd course
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: People People’s Friendship University of Russia (RUDN)
+  url: "http://www.rudn.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: At the moment, my main activity is aimed at improving practical and theoretical skills.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - LaTeX
+  - Statistical data analysis
+  - Photographing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: 2 course, continue stydying 
+      institution: People’s Friendship University of Russia 
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,24 +38,31 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:1032182581@pfur.ru'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/dear_tutti
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/RoDar203
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1660-5015
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3650918
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Darya_Rodina
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/darya--rodina/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "harumiamily@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Daria Rodina, a student at RUDN University, is studying in the direction "Fundamental Informatics and Information Technologies". Currently studying in the 2nd course.
