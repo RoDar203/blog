@@ -1,5 +1,5 @@
 ---
-title: Advertising effectiveness. Step 2
+title: Advertising effectiveness. Step 3
 #event: 
 #event_url: 
 

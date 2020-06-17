@@ -123,8 +123,8 @@ slides:
 ### Использование встроенной функции OCTAVE
 
 ```python
-
-	par=odeset ("RelTol", 1e-5, "AbsTol", 1e-5,'InitialStep',0.025,'MaxStep',0.1);
+	par=odeset ("RelTol", 1e-5, "AbsTol", 1e-5,
+		'InitialStep',0.025,'MaxStep',0.1);
 	[t, x]=ode23(@g, [0 30], 3, par);
 ```
 
