@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HelloWorld"
+title: "Проба пера"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,7 +28,9 @@ image:
 projects: []
 ---
 Вот он я, вот он мой блог
+
 Hello World!
+
 И пост готов
 
 

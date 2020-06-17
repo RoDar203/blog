@@ -1,5 +1,5 @@
 ---
-title: Advertising effectiveness. Step 1
+title: Эффективность рекламы, первый этап
 #event: 
 #event_url: 
 
@@ -10,10 +10,10 @@ title: Advertising effectiveness. Step 1
 #  postcode: '94305'
 #  country: United States
 
-summary: Identification of the dependence of the speed of advertising campaign
-abstract: "Proper implementation of the advertising campaign of any product that has just entered the market is an essential task for every self-respecting entrepreneur.
-Our task is not only to consider the model of building an advertising campaign, but also to draw up such an algorithm that could be used to calculate and analyze situations with an advertising campaign.
-At the first stage of the project, an advertising campaign model was presented."
+summary: Определение модели для выявления зависимости скорости распрастранения рекламы
+abstract: "Правильная реализация рекламной кампании любого продукта, который только что вышел на рынок, является важной задачей для каждого уважающего себя предпринимателя.
+Наша задача - не только рассмотреть модель построения рекламной кампании, но и разработать такой алгоритм, который можно было бы использовать для расчета и анализа ситуаций с рекламной кампанией.
+На первом этапе проекта была представлена модель рекламной кампании."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

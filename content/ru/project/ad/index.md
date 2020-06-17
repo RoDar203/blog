@@ -1,6 +1,6 @@
 ---
-title: Advertising effectiveness
-summary: Identification of the dependence of the speed of advertising campaign
+title: Эффективность рекламы
+summary: Выявление зависимости скорости распрастранения рекламны
 
 #tags:
 #- Demo
@@ -13,6 +13,6 @@ image:
   caption:
   focal_point: Smart
 ---
-
-Proper implementation of the advertising campaign of any product that has just entered the market is an essential task for every self-respecting entrepreneur.
-Our task is not only to consider the model of building an advertising campaign, but also to draw up such an algorithm that could be used to calculate and analyze situations with an advertising campaign.
+ 
+Правильная реализация рекламной кампании любого продукта, который только что вышел на рынок, является важной задачей для каждого уважающего себя предпринимателя.
+Наша задача - не только рассмотреть модель построения рекламной кампании, но и разработать такой алгоритм, который можно было бы использовать для расчета и анализа ситуаций с рекламной кампанией.

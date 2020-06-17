@@ -1,13 +1,13 @@
 ---
-title: Advertising effectiveness
-summary: Identification of the dependence of the speed of advertising campaign
+title: Эффективность рекламы, второй этап
+summary: Определение алгоритма для дальнейшего написания программы
 authors:
-- Rodina Darya
-- Kartashova Alice
-- Sasin Yaroslav
-- Vasilieva Julia
+- Родина Дарья
+- Карташова Алиса
+- Сасин Ярослав
+- Васильева Юлия
 institute:
-- RUDN University, Russian Federation
+- РУДН, Российсская Федерация
 #authors: []
 tags: []
 categories: []
@@ -20,50 +20,51 @@ slides:
   highlight_style: dracula
 ---
 
-# Advertising effectiveness
-# Step 2
+# Эффективность рекламы
+# 1 этап
 
 ---
 
-## Campaign Model
+## Модель рекламной кампании
 
-The main factors influencing sales are:
+Основными факторами влияния на продажи являютя:
 
-1. $N$ - the number of potential buyers
-2. $t$ - elapsed time from the start of the campaign
-3. $n (t)$ - the number of already informed buyers
-4. $a (t)$ - the intensity of the advertising campaign
+1. $N$ - число потенциальных покупателей
+2. $t$ - прошедшее время от начала кампании
+3. $n (t)$ - число уже информированных покупателей
+4. $a (t)$ - интенсивность рекламной кампании
 
 ---
-## Campaign Model
+
+## Модель рекламной кампании
 
 $$\frac{\mathrm{d}n}{\mathrm{d}t} = (a_1(t) + a_2(t)n(t))(N - n(t))$$
 
-$ \frac {\mathrm{d} n}{\mathrm{d} t} $ - the rate of change in the number of consumers who find out about the product and are ready to buy
-$ a_1 (t) (N - n (t)) $ -number of already informed buyers in proportion to the number of not yet informed buyers - Malthus model
+$ \frac {\mathrm{d} n}{\mathrm{d} t} $ - скорость изменения числа потребителей, узнавших о товаре и готовых купить  
+$ a_1 (t) (N - n (t)) $ - число уже информированных покупателей пропорционально числу еще не информированных покупателей - модель Мальтуса
 
 ---
 
-$ a_2 (t) n (t) (N - n (t)) $ - information dissemination by customers who already know about the product - logistic curve
-$ N - n (t) $ - the number of potential buyers who do not know about the product
+$ a_2 (t) n (t) (N - n (t)) $ - распрастранение информации покупателями, которые уже знают о товаре - логистичесая кривая   
+$ N - n (t) $ - количество потенциальных покупателей, не знающих о товаре
 
 ---
 
-## Campaign Model
+## Модель рекламной кампании
 
 $$\frac{\mathrm{d}n}{\mathrm{d}t} = (a_1(t) + a_2(t)n(t))(N - n(t))$$
 
-For $a_1(t) >> a_2(t)n(t)$ we get a model of the Maltus type:
+При $a_1(t)\gga_2(t)n(t)$ получаем модель типа Мальтуса:
 
 ![](1.png)
 
 ---
 
-## Campaign Model
+## Модель рекламной кампании
 
 $$\frac{\mathrm{d}n}{\mathrm{d}t} = (a_1(t) + a_2(t)n(t))(N - n(t))$$
 
-For $a_1(t) << a_2(t)n(t)$ we get the equation of the logistic curve::
+При $a_1(t)\lla_2(t)n(t)$ получаем уравнение логистической кривой:
 
 ![](2.png)
 
@@ -73,7 +74,7 @@ For $a_1(t) << a_2(t)n(t)$ we get the equation of the logistic curve::
 
 ---
 
-## Differential equation solution
+## Решение дифференциального уравнения
 
 $$ 1. \frac{dn}{dt} =(a_1 + a_2n)(N - n) $$
 
@@ -87,7 +88,7 @@ $$ a_2(t) = a_2t $$
 
 ---
 
-## Differential equation solution
+## Решение дифференциального уравнения
 
 $$ 1.\frac{dn}{(a_1 + a_2n)(N - n)} = dt $$ 
 
@@ -95,7 +96,7 @@ $$ 2.\frac{dn}{(a_1 + a_2n)(N - n)} = tdt $$
 
 ---
 
-## Differential equation solution
+## Решение дифференциального уравнения
 
 
 $$ \int\, \mathrm{d}t = t + C $$
@@ -129,11 +130,11 @@ $$ n(t) = \frac{a_1 + Ne^{(a_1+a_2N)(T+C)}}{-a_2 + e^{(a_1+a_2N)(T+C)}} $$
 $$ C = \frac {ln\frac{N_0a_2+a_1}{N_0-N}}{a_1+a_2N} - X_0 $$
 
 ---
-If a_1 and a_2 are linear functions:
+Если a_1 и a_2 - линейные функции:
 
 $$ X = x $$
 
-If a_1 and a_2 are constants:
+Если a_1 и a_2 - константы:
 
 $$ X = \frac {x^2}{2} $$
 
