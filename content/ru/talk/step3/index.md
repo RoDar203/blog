@@ -1,5 +1,5 @@
 ---
-title: Эффективность рекламы, второй этап
+title: Эффективность рекламы, третий этап
 #event: 
 #event_url: 
 
@@ -10,10 +10,10 @@ title: Эффективность рекламы, второй этап
 #  postcode: '94305'
 #  country: United States
 
-summary: Определение алгоритма для дальнейшего написания программы
+summary: Выявление наиболее оптимального кода
 abstract: "Правильная реализация рекламной кампании любого продукта, который только что вышел на рынок, является важной задачей для каждого уважающего себя предпринимателя.
 Наша задача - не только рассмотреть модель построения рекламной кампании, но и разработать такой алгоритм, который можно было бы использовать для расчета и анализа ситуаций с рекламной кампанией.
-На втором этапе проекта была представлен алгоритм для нахождения зависимости."
+На третьем этапе проекта была представлена наиболее оптимальная реализация программного кода."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "step2"
+slides: "step3"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

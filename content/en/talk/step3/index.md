@@ -1,5 +1,5 @@
 ---
-title: Эффективность рекламы, второй этап
+title: Advertising effectiveness. Step 2
 #event: 
 #event_url: 
 
@@ -10,10 +10,10 @@ title: Эффективность рекламы, второй этап
 #  postcode: '94305'
 #  country: United States
 
-summary: Определение алгоритма для дальнейшего написания программы
-abstract: "Правильная реализация рекламной кампании любого продукта, который только что вышел на рынок, является важной задачей для каждого уважающего себя предпринимателя.
-Наша задача - не только рассмотреть модель построения рекламной кампании, но и разработать такой алгоритм, который можно было бы использовать для расчета и анализа ситуаций с рекламной кампанией.
-На втором этапе проекта была представлен алгоритм для нахождения зависимости."
+summary: Identification of the dependence of the speed of advertising campaign
+abstract: "Proper implementation of the advertising campaign of any product that has just entered the market is an essential task for every self-respecting entrepreneur.
+Our task is not only to consider the model of building an advertising campaign, but also to draw up such an algorithm that could be used to calculate and analyze situations with an advertising campaign.
+At the second stage of the project, an advertising campaign base algorithms was presented."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "step2"
+slides: "step3"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
